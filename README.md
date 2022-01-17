@@ -1,4 +1,4 @@
-# sqlalchemy, flask and API Utilization
+# SQLalchemy, Flask and API Utilization
 Climate analysis utilizing an API, python SQL querying tool kit and flask as a python web framework
 
 ## Background
