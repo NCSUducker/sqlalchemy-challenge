@@ -1,5 +1,5 @@
-# sqlalchemy-challenge
-Climate analysis and API
+# sqlalchemy, flask and API Utilization
+Climate analysis utilizing an API, python SQL querying tool kit and flask as a python web framework
 
 ## Background
 This Project examines temperature and precipitation data from a weather station located in Hawaii
